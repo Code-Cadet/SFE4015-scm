@@ -36,7 +36,7 @@ python number_program.py
 👥 Contributors
 - Benjamin Kivaa (Code-Cadet)
 - Aisha Kulane (KULANEAisha)
-- Chantel Masilela  
+- Chantel Masilela (Chantel-Tiyandza1)
 
 🏷️ Tags
 
